@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-** My name is Andrés Felipe Motta Rojas, I´m 21 years old and this is a little about me.
+**My name is Andrés Felipe Motta Rojas, I´m 21 years old and this is a little about me.
 
 Some points about me:
 
@@ -10,4 +9,3 @@ Some points about me:
 - 🤔 I’m looking for help with learning more about data analysis and getting involved in my first job.
 - 📫 How to reach me: Email - pipemota0922@gmail.com
 - ⚡ Fun fact: I´ve been drummer for 10 years.
--->
